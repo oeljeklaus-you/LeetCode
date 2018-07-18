@@ -26,6 +26,6 @@ public class _268_missingNumber {
                 i++;
             }
         }
-        return i;
+        return i+1;
     }
 }
