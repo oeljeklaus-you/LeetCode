@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01750e63-3bfb-4eec-ab64-ebd31f3ebc3e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/math/_326_isPowerOfThree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/math/_342_isPowerOfFour.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,11 +25,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_326_isPowerOfThree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_326_isPowerOfThree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/math/_326_isPowerOfThree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+            <state relative-caret-position="19">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_342_isPowerOfFour.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/math/_342_isPowerOfFour.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -73,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/math/_231_isPowerOfTwo.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/math/_69_mySqrt.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/math/_367_isPerfectSquare.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/math/_70_climbStairs.java" />
@@ -124,6 +133,7 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/link/_89_deleteDuplicates.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/link/_237_deleteNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/math/_326_isPowerOfThree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/math/_342_isPowerOfFour.java" />
       </list>
     </option>
   </component>
@@ -513,12 +523,12 @@
       <workItem from="1531993788076" duration="7933000" />
       <workItem from="1532135357911" duration="3445000" />
       <workItem from="1532171338116" duration="1873000" />
-      <workItem from="1532344401832" duration="433000" />
+      <workItem from="1532344401832" duration="668000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57251000" />
+    <option name="totallyTimeSpent" value="57486000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -603,13 +613,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_167_twoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="34" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/tree/_100_isSameTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -964,8 +967,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/math/_326_isPowerOfThree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        <state relative-caret-position="19">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/math/_342_isPowerOfFour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
           <folding />
         </state>
       </provider>
