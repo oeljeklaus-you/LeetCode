@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01750e63-3bfb-4eec-ab64-ebd31f3ebc3e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_56_merge.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_57_insert.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_56_merge.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_56_merge.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,17 +16,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_56_merge.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_56_merge.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_56_merge.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <caret line="13" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#429#790#0" expanded="true" />
                 <element signature="e#789#790#0" expanded="true" />
                 <element signature="e#836#846#0" expanded="true" />
-                <element signature="e#1463#1473#0" expanded="true" />
+                <element signature="e#1466#1476#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_57_insert.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_57_insert.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#481#842#0" expanded="true" />
+                <element signature="e#841#842#0" expanded="true" />
+                <element signature="e#888#898#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -60,7 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_448_findDisappearedNumbers.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_485_findMaxConsecutiveOnes.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_704_search.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_202_isHappy.java" />
@@ -111,6 +126,7 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/tree/_257_binaryTreePaths.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/tree/_98_isValidBST.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_56_merge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_57_insert.java" />
       </list>
     </option>
   </component>
@@ -523,12 +539,12 @@
       <workItem from="1533869675851" duration="3000" />
       <workItem from="1533869847489" duration="6000" />
       <workItem from="1534164265002" duration="1204000" />
-      <workItem from="1534206692161" duration="2379000" />
+      <workItem from="1534206692161" duration="3176000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100816000" />
+    <option name="totallyTimeSpent" value="101613000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
@@ -619,20 +635,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/string/_49_groupAnagrams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="103" column="96" lean-forward="true" selection-start-line="103" selection-start-column="96" selection-end-line="103" selection-end-column="96" />
-          <folding>
-            <element signature="e#1834#1855#0" expanded="true" />
-            <element signature="e#2803#2817#0" expanded="true" />
-            <element signature="e#3057#3080#0" expanded="true" />
-            <element signature="e#3483#3491#0" expanded="true" />
-            <element signature="e#3799#3813#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/string/_58_lengthOfLastWord.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -969,13 +971,26 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_56_merge.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <caret line="13" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#429#790#0" expanded="true" />
             <element signature="e#789#790#0" expanded="true" />
             <element signature="e#836#846#0" expanded="true" />
-            <element signature="e#1463#1473#0" expanded="true" />
+            <element signature="e#1466#1476#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_57_insert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#481#842#0" expanded="true" />
+            <element signature="e#841#842#0" expanded="true" />
+            <element signature="e#888#898#0" expanded="true" />
           </folding>
         </state>
       </provider>
