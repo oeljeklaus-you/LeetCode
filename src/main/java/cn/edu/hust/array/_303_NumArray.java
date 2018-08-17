@@ -1,7 +1,7 @@
 package cn.edu.hust.array;
 
 public class _303_NumArray {
-    //
+    //使用一个新的数组保存，然后保存每一个的和，最后即可
     class NumArray {
         private int[] nums;
         public NumArray(int[] nums) {
