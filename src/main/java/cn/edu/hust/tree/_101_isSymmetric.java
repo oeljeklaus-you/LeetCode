@@ -12,6 +12,7 @@ public class _101_isSymmetric {
         TreeNode right;
         TreeNode(int x) { val = x; }
     }
+    //判断每一个数组是否是镜像
     public boolean isCycle(List<Integer> data)
     {
         int low=0;
@@ -27,6 +28,7 @@ public class _101_isSymmetric {
         }
         return true;
     }
+    // 可以进行层次遍历然后进行判断每一层数组是否是一个镜像
     public boolean isSymmetric(TreeNode root) {
         if(root==null) return true;
         Deque<TreeNode> queue=new ArrayDeque<TreeNode>();
