@@ -10,7 +10,7 @@ public class _111_minDepth {
         TreeNode right;
         TreeNode(int x) { val = x; }
     }
-    //进行层次遍历即可
+    //进行层次遍历即可，最小的深度也就是第一个叶子节点的深度
     public int minDepth(TreeNode root) {
         if(root==null) return 0;
         Deque<TreeNode> queue=new ArrayDeque<TreeNode>();

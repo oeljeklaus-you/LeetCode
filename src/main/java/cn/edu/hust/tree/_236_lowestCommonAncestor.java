@@ -11,6 +11,7 @@ public class _236_lowestCommonAncestor {
         TreeNode right;
         TreeNode(int x) { val = x; }
     }
+    //解题思路:可以转化为两个链表公共子节点
     public boolean getPath(TreeNode root, Stack<TreeNode> path, TreeNode t)
     {
         if(root==t)
