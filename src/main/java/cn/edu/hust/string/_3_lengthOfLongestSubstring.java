@@ -1,6 +1,7 @@
 package cn.edu.hust.string;
 
 public class _3_lengthOfLongestSubstring {
+    //使用一个StringBuilder如果里面没有这个元素就添加，如果有就得到位置，然后截取下半段得到然后i--
     public int lengthOfLongestSubstring(String s) {
         if(s==null||s.length()==0) return 0;
         StringBuilder sb=new StringBuilder();
