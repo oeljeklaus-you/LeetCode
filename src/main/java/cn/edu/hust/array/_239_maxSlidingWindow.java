@@ -16,7 +16,7 @@ public class _239_maxSlidingWindow {
         return max;
     }
     public int[] maxSlidingWindow(int[] nums, int k) {
-        if(nums==null||nums.length==0) return new int[0]
+        if(nums==null||nums.length==0) return new int[0];
         Deque<Integer> queue=new ArrayDeque<Integer>();
         List<Integer> result=new ArrayList<Integer>();
         for(int i=0;i<nums.length;i++)
