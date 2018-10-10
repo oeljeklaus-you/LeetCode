@@ -22,6 +22,9 @@ public class _26_RemoveDuplicates {
 
     //这里使用快慢指针法
     public int removeDuplicates2(int[] nums) {
+        /**
+         * 移除元素，指向重复元素的第一个，那么当后来有元素不同的时候就删除
+         */
         if(nums.length==0) return 0;
         int i=0;
         for(int j=1;j<nums.length;j++)
