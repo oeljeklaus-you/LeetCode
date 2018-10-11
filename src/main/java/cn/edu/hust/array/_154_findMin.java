@@ -1,7 +1,6 @@
 package cn.edu.hust.array;
 
-public class _152_findMin {
-    //解题思路使用二分法
+public class _154_findMin {
     public int findMin(int[] nums) {
         int low=0;
         int high=nums.length-1;
@@ -16,7 +15,6 @@ public class _152_findMin {
             //如果中间大于前面，那么将在下一段
             if(nums[mid]>nums[low])
             {
-                //这里一定要是mid，要保持旋转数组的特性
                 low=mid;
                 //如果中间值小于最后的值，那么将在前一段
             }else if(nums[mid]<nums[high])
@@ -28,6 +26,7 @@ public class _152_findMin {
                 //假设是逆序这种情况
                 low++;
             }
+
         }
         return nums[low];
     }

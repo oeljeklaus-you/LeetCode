@@ -4,6 +4,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class _118_Traigle {
+    /**
+     * 这里根据杨辉三角形的特点进行计算就可以了
+     * @param numRows
+     * @return
+     */
     public static List<List<Integer>> generate(int numRows) {
         //按照特点计算即可
         List<List<Integer>> result=new ArrayList<List<Integer>>();

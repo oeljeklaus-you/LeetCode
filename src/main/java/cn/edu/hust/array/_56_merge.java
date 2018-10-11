@@ -14,6 +14,11 @@ public class _56_merge {
     }
     //按照自定义排序即可
     public List<Interval> merge(List<Interval> intervals) {
+        /**
+         * 这个问题怎么解决呢？
+         * 首先这是一个间隔于，根据间隔于的大小排序
+         * 然后根据间隔于计算然后合并间隔于
+         */
         Collections.sort(intervals, new Comparator<Interval>() {
             @Override
             public int compare(Interval o1, Interval o2) {

@@ -14,6 +14,9 @@ public class _57_insert {
     }
     public List<Interval> insert(List<Interval> intervals, Interval newInterval) {
         intervals.add(newInterval);
+        /**
+         * 按照上一题计算即可
+         */
         Collections.sort(intervals, new Comparator<Interval>() {
             @Override
             public int compare(Interval o1, Interval o2) {
