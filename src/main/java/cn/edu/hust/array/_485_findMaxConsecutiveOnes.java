@@ -2,6 +2,13 @@ package cn.edu.hust.array;
 
 public class _485_findMaxConsecutiveOnes {
     //两个指针即可
+
+    /**
+     * 使用两个东西来进行计数
+     * 如果出现了0，那么就重新计数即可
+     * @param nums
+     * @return
+     */
     public int findMaxConsecutiveOnes(int[] nums) {
         int count1=0;
         int count2=0;

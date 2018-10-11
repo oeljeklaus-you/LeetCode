@@ -15,6 +15,13 @@ public class _239_maxSlidingWindow {
         }
         return max;
     }
+
+    /**
+     * 滑动窗口的最大值:使用一个双端队列，如果某个双端队列找到最大值，然后进行计算即可
+     * @param nums
+     * @param k
+     * @return
+     */
     public int[] maxSlidingWindow(int[] nums, int k) {
         if(nums==null||nums.length==0) return new int[0];
         Deque<Integer> queue=new ArrayDeque<Integer>();

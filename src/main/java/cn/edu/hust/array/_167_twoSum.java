@@ -1,6 +1,12 @@
 package cn.edu.hust.array;
 
 public class _167_twoSum {
+    /**
+     * 使用双指针法即可
+     * @param numbers
+     * @param target
+     * @return
+     */
     //利用有序性特点即可
     public int[] twoSum(int[] numbers, int target) {
         int[] result=new int[2];

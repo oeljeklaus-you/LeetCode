@@ -19,6 +19,13 @@ public class _189_rotate {
         }
 
     }
+
+    /**
+     * 对于翻转的题目一般是全部翻转，然后局部翻转
+     * @param nums
+     * @param start
+     * @param end
+     */
     private void rotateHelper(int[] nums,int start,int end) {
         if(start>=end) return;
         int tmp;

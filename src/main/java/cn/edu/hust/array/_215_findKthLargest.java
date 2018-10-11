@@ -1,6 +1,14 @@
 package cn.edu.hust.array;
 
 public class _215_findKthLargest {
+    /**
+     * 这里使用快速排序来进行排除
+     * @param nums
+     * @param start
+     * @param end
+     * @param k
+     * @return
+     */
     public int findKthLargestHelper(int[] nums,int start,int end,int k)
     {
         int low=start;

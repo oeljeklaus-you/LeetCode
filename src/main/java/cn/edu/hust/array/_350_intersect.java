@@ -5,6 +5,12 @@ import java.util.Arrays;
 import java.util.List;
 
 public class _350_intersect {
+    /**
+     * 排序后进行排查即可
+     * @param nums1
+     * @param nums2
+     * @return
+     */
     public int[] intersect(int[] nums1, int[] nums2) {
         if(nums1==null||nums2==null) return new int[0];
         Arrays.sort(nums1);

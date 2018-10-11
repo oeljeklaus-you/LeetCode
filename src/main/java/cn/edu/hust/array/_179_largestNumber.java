@@ -3,7 +3,12 @@ package cn.edu.hust.array;
 import java.util.Arrays;
 
 public class _179_largestNumber {
-
+    /**
+     * 将数组拼接成为最大的值，这里使用字典序列进行比较，这里可以使用插入排序进行，但是需要注意的
+     * 是如果后面那个的数和前面进行排序较大，那么就排序，但是有可能全是0那么返回0
+     * @param nums
+     * @return
+     */
     public String largestNumber(int[] nums) {
         if(nums==null||nums.length==0) return "";
         for(int i=1;i<nums.length;i++)

@@ -7,6 +7,13 @@ import java.util.Map;
 
 public class _219_ContainsNearbyDuplicate {
     //解题和重复的数I相同只是数据结构不同，时间复杂度为O(n)
+
+    /**
+     * 同样使用数据结构来进行判断，将索引保存在List中，然后进行判断
+     * @param nums
+     * @param k
+     * @return
+     */
     public boolean containsNearbyDuplicate(int[] nums, int k) {
         Map<Integer,List<Integer>> maps=new HashMap<Integer,List<Integer>>();
         for(int i=0;i<nums.length;i++)

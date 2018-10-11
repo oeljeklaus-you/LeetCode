@@ -28,6 +28,12 @@ public class _414_thirdMax {
 
 
     //解法2，使用3个变量即可
+
+    /**
+     * 使用三个数进行计算，可能存在相同的，如果出现的，那么就需要排除这种情况，然后移动这些元素。
+     * @param nums
+     * @return
+     */
     public int thirdMax2(int[] nums) {
         Integer max1=null,max2=null,max3=null;
         for(Integer num:nums)

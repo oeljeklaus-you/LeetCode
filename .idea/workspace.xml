@@ -2,17 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01750e63-3bfb-4eec-ab64-ebd31f3ebc3e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_118_Traigle.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_118_Traigle.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_122_maxProfit.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_122_maxProfit.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_152_findMin.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_154_findMin.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_153_findMin.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_153_findMin.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_42_firstMissingPositive.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_41_firstMissingPositive.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_42_trap.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_42_trap.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_53_MaxSubArray.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_53_MaxSubArray.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_56_merge.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_56_merge.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_57_insert.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_57_insert.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_81_serach.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_81_serach.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_162_findPeakElement.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_162_findPeakElement.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_167_twoSum.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_167_twoSum.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_169_MajorityElement.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_169_MajorityElement.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_179_largestNumber.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_179_largestNumber.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_189_rotate.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_189_rotate.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_202_isHappy.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_202_isHappy.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_215_findKthLargest.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_215_findKthLargest.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_217_ContainsDuplicate.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_217_ContainsDuplicate.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_219_ContainsNearbyDuplicate.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_219_ContainsNearbyDuplicate.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_239_maxSlidingWindow.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_239_maxSlidingWindow.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_283_moveZeroes.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_283_moveZeroes.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_303_NumArray.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_303_NumArray.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_350_intersect.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_350_intersect.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_414_thirdMax.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_414_thirdMax.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_485_findMaxConsecutiveOnes.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_485_findMaxConsecutiveOnes.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,21 +33,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_153_findMin.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_153_findMin.java">
+      <file leaf-file-name="_46_permute.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/backtrack/_46_permute.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="47" lean-forward="false" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_162_findPeakElement.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_162_findPeakElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            <state relative-caret-position="76">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -78,20 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/tree/_429_levelOrder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/math/_504_convertToBase7.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_162_findPeakElement.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_448_findDisappearedNumbers.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/dp/_152_maxProduct.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_121_maxProfit.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/tree/_111_minDepth.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/tree/_236_lowestCommonAncestor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/tree/_590_postorder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/tree/_145_postorderTraversal.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_215_findKthLargest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_179_largestNumber.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/tree/_126_sumNumbers.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/tree/_129_sumNumbers.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/link/_143_reorderList.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/link/_25_reverseKGroup.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/string/_3_lengthOfLongestSubstring.java" />
@@ -107,7 +87,6 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/hw/HeapSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/link/_146_lru.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/link/LRUCache.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_239_maxSlidingWindow.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_55_canJump.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/tree/_105_buildTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/tree/_106_buildTree.java" />
@@ -129,6 +108,21 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_122_maxProfit.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_152_findMin.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_153_findMin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_162_findPeakElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_167_twoSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_169_MajorityElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_179_largestNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_189_rotate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_202_isHappy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_215_findKthLargest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_217_ContainsDuplicate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_219_ContainsNearbyDuplicate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_239_maxSlidingWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_283_moveZeroes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_303_NumArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_350_intersect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_414_thirdMax.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_485_findMaxConsecutiveOnes.java" />
       </list>
     </option>
   </component>
@@ -238,7 +232,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hust" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
+              <item name="backtrack" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -586,12 +580,12 @@
       <workItem from="1538998844884" duration="216000" />
       <workItem from="1539069600699" duration="959000" />
       <workItem from="1539172104732" duration="4929000" />
-      <workItem from="1539220269292" duration="1123000" />
+      <workItem from="1539220269292" duration="4931000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161135000" />
+    <option name="totallyTimeSpent" value="164943000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -695,127 +689,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/tree/_144_preorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/tree/_589_preorder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/link/_89_deleteDuplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/link/_81_deleteDuplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_215_findKthLargest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/link/_25_reverseKGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/tree/_226_invertTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/tree/_429_levelOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/tree/_404_sumOfLeftLeaves.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/tree/_574_isSubtree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="405">
-            <caret line="28" column="36" lean-forward="false" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/tree/_230_kthSmallest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/hw/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="931">
-          <caret line="49" column="44" lean-forward="false" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
-          <folding>
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#136#137#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="509" column="5" lean-forward="true" selection-start-line="507" selection-start-column="3" selection-end-line="509" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="523" column="15" lean-forward="false" selection-start-line="523" selection-start-column="15" selection-end-line="523" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/link/_146_lru.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/link/LRUCache.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
@@ -848,13 +721,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="349">
           <caret line="1962" column="20" lean-forward="true" selection-start-line="1962" selection-start-column="20" selection-end-line="1962" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_239_maxSlidingWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="57" lean-forward="false" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -1022,14 +888,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_189_rotate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_118_Traigle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -1072,8 +930,163 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_162_findPeakElement.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_167_twoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_169_MajorityElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="60" lean-forward="false" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_179_largestNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <caret line="7" column="45" lean-forward="false" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_189_rotate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_202_isHappy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_215_findKthLargest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1069#1070#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_217_ContainsDuplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_219_ContainsNearbyDuplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_239_maxSlidingWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_268_missingNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_283_moveZeroes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="60" lean-forward="false" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_303_NumArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_349_intersection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-842">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_414_thirdMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="32" column="52" lean-forward="false" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_485_findMaxConsecutiveOnes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_448_findDisappearedNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_704_search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/array/_350_intersect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/hust/backtrack/_46_permute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
